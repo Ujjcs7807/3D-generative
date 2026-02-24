@@ -3,7 +3,7 @@ flask-limiter==3.7.0
 python-dotenv==1.0.1
 requests==2.32.3
 torch==2.9.0
-torchvision==0.20.2
+torchvision==0.24.2
 opencv-python-headless==4.8.1.78
 Pillow==10.4.0
 numpy==1.26.4
