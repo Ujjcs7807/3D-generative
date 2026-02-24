@@ -1,6 +1,6 @@
 flask==2.3.3
 flask-limiter==3.7.0
-python-dotenv==3.10.13
+python-dotenv==1.0.1
 requests==2.32.3
 torch==2.1.2
 torchvision==0.16.2
